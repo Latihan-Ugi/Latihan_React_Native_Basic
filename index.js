@@ -26,3 +26,4 @@ AppRegistry.registerComponent('LatihanPertama', () => LatihanFlatListUseSwipeout
 
 
 // BY UGI ISPOYO WIDODO :) 
+// SALAM CODING :D
