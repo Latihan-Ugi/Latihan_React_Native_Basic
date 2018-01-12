@@ -12,11 +12,14 @@ import LatihanTouchable from './components/LatihanTouchable';
 import LatihanVerticalScrollView from './components/LatihanVerticalScrollView';
 import LatihanHorizontalScrollView from './components/LatihanHorizontalScrollView';
 import LatihanFlatList from './components/LatihanFlatList';
+import LatihanFlatListUseSwipeout from './components/LatihanFlatListUseSwipeout';
 
 // Untuk ANDROID
 import LatihanViewPager from './components/LatihanViewPager';
 
-AppRegistry.registerComponent('LatihanPertama', () => LatihanFlatList);
+// Untuk IOS
+
+AppRegistry.registerComponent('LatihanPertama', () => LatihanFlatListUseSwipeout);
 
 
 // BY UGI ISPOYO WIDODO
