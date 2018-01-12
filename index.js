@@ -19,7 +19,10 @@ import LatihanViewPager from './components/LatihanViewPager';
 
 // Untuk IOS
 
+
+
+// Regis App
 AppRegistry.registerComponent('LatihanPertama', () => LatihanFlatListUseSwipeout);
 
 
-// BY UGI ISPOYO WIDODO
+// BY UGI ISPOYO WIDODO :) 
