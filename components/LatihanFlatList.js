@@ -10,11 +10,20 @@ class FlatListItem extends Component{
         return (
             <View style={{
                 flex:1,
+                flexDirection:'row',
+                padding:5,
                 backgroundColor : this.props.index % 2 ==  0 ? 'lightgreen' : 'tomato'
             }}>
-                <Text>{this.props.item.nama}</Text>
-                <Text>{this.props.item.alamat}</Text>
-                <Text>{this.props.item.jk}</Text>
+                <Image
+                    source={{uri: this.props.item.img}}
+                    style={{width:70,height:70}}
+                >
+                </Image>
+                <View style={{ flex:1, flexDirection:'column', marginLeft:5}}>
+                    <Text>{this.props.item.nama}</Text>
+                    <Text>{this.props.item.alamat}</Text>
+                    <Text>{this.props.item.jk}</Text>
+                </View>
             </View>
         );
     }
