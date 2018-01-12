@@ -8,7 +8,7 @@ var FlatListData = [
         "nama":"Joko",
         "alamat":"Bogor",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"2",
@@ -16,7 +16,7 @@ var FlatListData = [
         "nama":"Andi",
         "alamat":"Depok",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"3",
@@ -24,7 +24,7 @@ var FlatListData = [
         "nama":"Susi",
         "alamat":"Jakarta",
         "jk":"Perempuan",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"4",
@@ -32,7 +32,7 @@ var FlatListData = [
         "nama":"Budi",
         "alamat":"Jakarta",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"5",
@@ -40,7 +40,7 @@ var FlatListData = [
         "nama":"Joko",
         "alamat":"Bogor",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"6",
@@ -48,7 +48,7 @@ var FlatListData = [
         "nama":"Andi",
         "alamat":"Depok",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"7",
@@ -56,7 +56,7 @@ var FlatListData = [
         "nama":"Susi",
         "alamat":"Jakarta",
         "jk":"Perempuan",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"8",
@@ -64,7 +64,7 @@ var FlatListData = [
         "nama":"Budi",
         "alamat":"Jakarta",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"9",
@@ -72,7 +72,7 @@ var FlatListData = [
         "nama":"Andi",
         "alamat":"Depok",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"10",
@@ -80,7 +80,7 @@ var FlatListData = [
         "nama":"Susi",
         "alamat":"Jakarta",
         "jk":"Perempuan",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     },
     {
         "key":"11",
@@ -88,7 +88,7 @@ var FlatListData = [
         "nama":"Budi",
         "alamat":"Jakarta",
         "jk":"Laki-Laki",
-        "img":"http://geekycentral.com/wp-content/uploads/2017/09/react-native.png"
+        "img":"https://services.sportourism.id/fileload/menteri-pupr-irjen-main-bolajpg-bfyqcjpg-3UQO.jpg"
     }
 ]
 module.exports = FlatListData;
