@@ -9,7 +9,7 @@ class Greeting extends Component {
     }
 }
 
-export default class MultipleGreeting extends Component{
+export default class LatihanMultipleGreeting extends Component{
     render(){
         return(
             <View style={styles.nama}>

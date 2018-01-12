@@ -3,7 +3,7 @@ import App from './App';
 
 // Untuk IOS & ANDROID
 import Latihanprops from './components/Latihanprops';
-import MultipleGreeting from './components/MultipleGreeting';
+import LatihanMultipleGreeting from './components/LatihanMultipleGreeting';
 import LatihanState from './components/LatihanState';
 import LatihanStyle from './components/LatihanStyle';
 import LatihanTextInput from './components/LatihanTextInput';
