@@ -29,7 +29,7 @@ export default class LatihanTouchable extends Component{
                             Hallo
                         </Text>
                         {/* <Image style={{width:50,height:50}}
-                            source={require('./../images/resizeimage.png')}
+                            source={require('./../images/logo_asn-01.png')}
                         >
                         </Image> */}
                     </View>

@@ -14,6 +14,9 @@ export default class LatihanViewPager extends Component {
                 onPageScrollStateChange={(state) => {
                     console.log(`Scrolled state = ${state}`)
                 }}
+                onPageSelected={(event) => {
+                    console.log(`Scroll to page = ${event.nativeEvent.position}`)
+                }}
             >
                 <View style={{ backgroundColor:'lightseagreen'}}>
                     <Text style={styles.text}>Hallo</Text>
